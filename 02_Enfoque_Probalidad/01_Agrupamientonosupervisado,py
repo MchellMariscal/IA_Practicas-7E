@@ -1,0 +1,31 @@
+from sklearn.cluster import KMeans
+import numpy as np
+
+# 🛒 Datos simulados de productos: [precio, calorías]
+productos = np.array([
+    [1.50, 200],   # Galletas
+    [2.00, 250],   # Chocolatina
+    [1.00, 100],   # Yogur light
+    [3.50, 500],   # Pizza congelada
+    [4.00, 550],   # Lasagna
+    [0.80, 90],    # Manzana
+    [0.70, 80],    # Plátano
+    [2.50, 300],   # Hamburguesa
+    [2.20, 290],   # Nuggets
+])
+
+nombres_productos = [
+    "Galletas", "Chocolatina", "Yogur light",
+    "Pizza congelada", "Lasagna", "Manzana",
+    "Plátano", "Hamburguesa", "Nuggets"
+]
+
+# 🎯 Aplicar K-Means para agrupar productos
+kmeans = KMeans(n_clusters=3, random_state=42)
+kmeans.fit(productos)
+
+# Mostrar resultados
+print("🔍 Agrupación de productos:")
+for i, nombre in enumerate(nombres_productos):
+    grupo = kmeans.labels_[i]
+    print(f"{nombre:<20} → Grupo {grupo}")
