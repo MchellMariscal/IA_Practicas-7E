@@ -5,7 +5,7 @@ import numpy as np
 productos = np.array([
     [1.50, 200],   # Galletas
     [2.00, 250],   # Chocolatina
-    [1.00, 100],   # Yogur light
+    [5.00, 500],   # Yogur light
     [3.50, 500],   # Pizza congelada
     [4.00, 550],   # Lasagna
     [0.80, 90],    # Manzana
