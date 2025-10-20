@@ -38,7 +38,13 @@
                 }
             },
             "no": {
-                "cancion": "Cosas Imposibles"
+                "pregunta": "ml",
+                "si": {
+                    "cancion": "m"
+                },
+                "no": {
+                    "cancion": "Cosas Imposibles"
+                }
             }
         }
     }
