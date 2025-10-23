@@ -1,0 +1,391 @@
+[
+ 
+  {
+    "titulo": "Por qué no puedo ser del jet-set",
+    "artista": "Soda Stereo",
+    "album": "Soda Stereo",
+    "año": 1984,
+    "emocion": "irónica",
+    "portada": "portadas/soda_soda_stereo.jpg"
+  },
+  {
+    "titulo": "Sobredosis de TV",
+    "artista": "Soda Stereo",
+    "album": "Soda Stereo",
+    "año": 1984,
+    "emocion": "crítica",
+    "portada": "portadas/soda_soda_stereo.jpg"
+  },
+  {
+    "titulo": "Trátame suavemente",
+    "artista": "Soda Stereo",
+    "album": "Soda Stereo",
+    "año": 1984,
+    "emocion": "melancólica",
+    "portada": "portadas/soda_soda_stereo.jpg"
+  },
+  {
+    "titulo": "Te hacen falta vitaminas",
+    "artista": "Soda Stereo",
+    "album": "Soda Stereo",
+    "año": 1984,
+    "emocion": "divertida",
+    "portada": "portadas/soda_soda_stereo.jpg"
+  },
+  {
+    "titulo": "Un misil en mi placard",
+    "artista": "Soda Stereo",
+    "album": "Soda Stereo",
+    "año": 1984,
+    "emocion": "absurda",
+    "portada": "portadas/soda_soda_stereo.jpg"
+  },
+
+{
+  "titulo": "Nada Personal",
+  "artista": "Soda Stereo",
+  "album": "Nada Personal",
+  "año": 1985,
+  "emocion": "introspectiva",
+  "portada": "portadas/soda_nada_personal.jpg"
+},
+{
+  "titulo": "Cuando Pase el Temblor",
+  "artista": "Soda Stereo",
+  "album": "Nada Personal",
+  "año": 1985,
+  "emocion": "festiva",
+  "portada": "portadas/soda_nada_personal.jpg"
+},
+{
+  "titulo": "Juego de Seducción",
+  "artista": "Soda Stereo",
+  "album": "Nada Personal",
+  "año": 1985,
+  "emocion": "provocadora",
+  "portada": "portadas/soda_nada_personal.jpg"
+},
+{
+  "titulo": "Estoy Azulado",
+  "artista": "Soda Stereo",
+  "album": "Nada Personal",
+  "año": 1985,
+  "emocion": "melancólica",
+  "portada": "portadas/soda_nada_personal.jpg"
+},
+
+{
+  "titulo": "Signos",
+  "artista": "Soda Stereo",
+  "album": "Signos",
+  "año": 1986,
+  "emocion": "misteriosa",
+  "portada": "portadas/soda_signos.jpg"
+},
+{
+  "titulo": "Persiana Americana",
+  "artista": "Soda Stereo",
+  "album": "Signos",
+  "año": 1986,
+  "emocion": "energética",
+  "portada": "portadas/soda_signos.jpg"
+},
+{
+  "titulo": "Prófugos",
+  "artista": "Soda Stereo",
+  "album": "Signos",
+  "año": 1986,
+  "emocion": "urgente",
+  "portada": "portadas/soda_signos.jpg"
+},
+{
+  "titulo": "El Rito",
+  "artista": "Soda Stereo",
+  "album": "Signos",
+  "año": 1986,
+  "emocion": "ritual",
+  "portada": "portadas/soda_signos.jpg"
+},
+
+{
+  "titulo": "En la Ciudad de la Furia",
+  "artista": "Soda Stereo",
+  "album": "Doble Vida",
+  "año": 1988,
+  "emocion": "introspectiva",
+  "portada": "portadas/soda_doble_vida.jpg"
+},
+{
+  "titulo": "Lo Que Sangra (La Cúpula)",
+  "artista": "Soda Stereo",
+  "album": "Doble Vida",
+  "año": 1988,
+  "emocion": "oscura",
+  "portada": "portadas/soda_doble_vida.jpg"
+},
+{
+  "titulo": "Día Común - Doble Vida",
+  "artista": "Soda Stereo",
+  "album": "Doble Vida",
+  "año": 1988,
+  "emocion": "reflexiva",
+  "portada": "portadas/soda_doble_vida.jpg"
+},
+
+{
+  "titulo": "Canción Animal",
+  "artista": "Soda Stereo",
+  "album": "Canción Animal",
+  "año": 1990,
+  "emocion": "salvaje",
+  "portada": "portadas/soda_cancion_animal.jpeg"
+},
+{
+  "titulo": "De Música Ligera",
+  "artista": "Soda Stereo",
+  "album": "Canción Animal",
+  "año": 1990,
+  "emocion": "festiva",
+  "portada": "portadas/soda_cancion_animal.jpeg"
+},
+{
+  "titulo": "Un Millón de Años Luz",
+  "artista": "Soda Stereo",
+  "album": "Canción Animal",
+  "año": 1990,
+  "emocion": "melancólica",
+  "portada": "portadas/soda_cancion_animal.jpeg"
+},
+{
+  "titulo": "Té Para Tres",
+  "artista": "Soda Stereo",
+  "album": "Canción Animal",
+  "año": 1990,
+  "emocion": "íntima",
+  "portada": "portadas/soda_cancion_animal.jpeg"
+},
+{
+  "titulo": "Primavera 0",
+  "artista": "Soda Stereo",
+  "album": "Dynamo",
+  "año": 1992,
+  "emocion": "renovadora",
+  "portada": "portadas/soda_dynamo.jpg"
+},
+{
+  "titulo": "Luna Roja",
+  "artista": "Soda Stereo",
+  "album": "Dynamo",
+  "año": 1992,
+  "emocion": "enigmática",
+  "portada": "portadas/soda_dynamo.jpg"
+},
+{
+  "titulo": "En Remolinos",
+  "artista": "Soda Stereo",
+  "album": "Dynamo",
+  "año": 1992,
+  "emocion": "confusa",
+  "portada": "portadas/soda_dynamo.jpg"
+},
+{
+  "titulo": "Fue",
+  "artista": "Soda Stereo",
+  "album": "Dynamo",
+  "año": 1992,
+  "emocion": "dolorosa",
+  "portada": "portadas/soda_dynamo.jpg"
+},
+{
+  "titulo": "Ella Usó Mi Cabeza Como Un Revólver",
+  "artista": "Soda Stereo",
+  "album": "Sueño Stereo",
+  "año": 1995,
+  "emocion": "oscura",
+  "portada": "portadas/soda_sueno_stereo.jpg"
+},
+{
+  "titulo": "Disco Eterno",
+  "artista": "Soda Stereo",
+  "album": "Sueño Stereo",
+  "año": 1995,
+  "emocion": "hipnótica",
+  "portada": "portadas/soda_sueno_stereo.jpg"
+},
+{
+  "titulo": "Zoom",
+  "artista": "Soda Stereo",
+  "album": "Sueño Stereo",
+  "año": 1995,
+  "emocion": "curiosa",
+  "portada": "portadas/soda_sueno_stereo.jpg"
+},
+{
+  "titulo": "Paseando por Roma",
+  "artista": "Soda Stereo",
+  "album": "Sueño Stereo",
+  "año": 1995,
+  "emocion": "contemplativa",
+  "portada": "portadas/soda_sueno_stereo.jpg"
+},
+{
+  "titulo": "Amor Amarillo",
+  "artista": "Gustavo Cerati",
+  "album": "Amor Amarillo",
+  "año": 1993,
+  "emocion": "radiante",
+  "portada": "portadas/cerati_amor_amarillo.jpg"
+},
+{
+  "titulo": "Te Llevo Para Que Me Lleves",
+  "artista": "Gustavo Cerati",
+  "album": "Amor Amarillo",
+  "año": 1993,
+  "emocion": "dulce",
+  "portada": "portadas/cerati_amor_amarillo.jpg"
+},
+{
+  "titulo": "Lisa",
+  "artista": "Gustavo Cerati",
+  "album": "Amor Amarillo",
+  "año": 1993,
+  "emocion": "tierna",
+  "portada": "portadas/cerati_amor_amarillo.jpg"
+},
+{
+  "titulo": "Pulsar",
+  "artista": "Gustavo Cerati",
+  "album": "Amor Amarillo",
+  "año": 1993,
+  "emocion": "espacial",
+  "portada": "portadas/cerati_amor_amarillo.jpg"
+},
+{
+  "titulo": "Bocanada",
+  "artista": "Gustavo Cerati",
+  "album": "Bocanada",
+  "año": 1999,
+  "emocion": "etérea",
+  "portada": "portadas/cerati_bocanada.jpeg"
+},
+{
+  "titulo": "Puente",
+  "artista": "Gustavo Cerati",
+  "album": "Bocanada",
+  "año": 1999,
+  "emocion": "melancólica",
+  "portada": "portadas/cerati_bocanada.jpeg"
+},
+{
+  "titulo": "Raíz",
+  "artista": "Gustavo Cerati",
+  "album": "Bocanada",
+  "año": 1999,
+  "emocion": "profunda",
+  "portada": "portadas/cerati_bocanada.jpeg"
+},
+{
+  "titulo": "Beautiful",
+  "artista": "Gustavo Cerati",
+  "album": "Bocanada",
+  "año": 1999,
+  "emocion": "abstracta",
+  "portada": "portadas/cerati_bocanada.jpeg"
+},
+{
+  "titulo": "Karaoke",
+  "artista": "Gustavo Cerati",
+  "album": "Siempre es Hoy",
+  "año": 2002,
+  "emocion": "lúdica",
+  "portada": "portadas/cerati_siempre_es_hoy.jpg"
+},
+{
+  "titulo": "Tu Cicatriz en Mí",
+  "artista": "Gustavo Cerati",
+  "album": "Siempre es Hoy",
+  "año": 2002,
+  "emocion": "dolorosa",
+  "portada": "portadas/cerati_siempre_es_hoy.jpg"
+},
+{
+  "titulo": "Sudestada",
+  "artista": "Gustavo Cerati",
+  "album": "Siempre es Hoy",
+  "año": 2002,
+  "emocion": "intensa",
+  "portada": "portadas/cerati_siempre_es_hoy.jpg"
+},
+{
+  "titulo": "Artefacto",
+  "artista": "Gustavo Cerati",
+  "album": "Siempre es Hoy",
+  "año": 2002,
+  "emocion": "experimental",
+  "portada": "portadas/cerati_siempre_es_hoy.jpg"
+},
+{
+  "titulo": "Crimen",
+  "artista": "Gustavo Cerati",
+  "album": "Ahí Vamos",
+  "año": 2006,
+  "emocion": "dramática",
+  "portada": "portadas/cerati_ahi_vamos.jpeg"
+},
+{
+  "titulo": "La Excepción",
+  "artista": "Gustavo Cerati",
+  "album": "Ahí Vamos",
+  "año": 2006,
+  "emocion": "reflexiva",
+  "portada": "portadas/cerati_ahi_vamos.jpeg"
+},
+{
+  "titulo": "Adiós",
+  "artista": "Gustavo Cerati",
+  "album": "Ahí Vamos",
+  "año": 2006,
+  "emocion": "nostálgica",
+  "portada": "portadas/cerati_ahi_vamos.jpeg"
+},
+{
+  "titulo": "Lago en el Cielo",
+  "artista": "Gustavo Cerati",
+  "album": "Ahí Vamos",
+  "año": 2006,
+  "emocion": "contemplativa",
+  "portada": "portadas/cerati_ahi_vamos.jpeg"
+},
+{
+  "titulo": "Fuerza Natural",
+  "artista": "Gustavo Cerati",
+  "album": "Fuerza Natural",
+  "año": 2009,
+  "emocion": "luminosa",
+  "portada": "portadas/cerati_fuerza_natural.jpg"
+},
+{
+  "titulo": "Magia",
+  "artista": "Gustavo Cerati",
+  "album": "Fuerza Natural",
+  "año": 2009,
+  "emocion": "radiante",
+  "portada": "portadas/cerati_fuerza_natural.jpg"
+},
+{
+  "titulo": "Cactus",
+  "artista": "Gustavo Cerati",
+  "album": "Fuerza Natural",
+  "año": 2009,
+  "emocion": "romántica",
+  "portada": "portadas/cerati_fuerza_natural.jpg"
+},
+{
+  "titulo": "Deja Vu",
+  "artista": "Gustavo Cerati",
+  "album": "Fuerza Natural",
+  "año": 2009,
+  "emocion": "cíclica",
+  "portada": "portadas/cerati_fuerza_natural.jpg"
+}
+]
